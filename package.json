@@ -1,0 +1,9 @@
+{
+  "name": "vanaheim",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "pedido.js",
+  "dependencies": {
+    "@harizetamara/webhook-config": "^1.0.3"
+  }
+}
