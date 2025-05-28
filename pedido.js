@@ -109,7 +109,7 @@ document.addEventListener("DOMContentLoaded", () => {
       color: 3066993,
     };
 
-    const webhookURL = "https://discord.com/api/webhooks/1371591431549878322/1a65WMk6VBwbbZNEV-3yP_wGrIu7WRi2B7xdHR90fp_2HjOqPKWRRC-7w1lG8vhvdXfQ";
+    const webhookURL = "https://discord.com/api/webhooks/SUA_WEBHOOK_AQUI";
 
     fetch(webhookURL, {
       method: "POST",
